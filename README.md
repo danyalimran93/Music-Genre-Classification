@@ -22,7 +22,7 @@ and the following library installed:
 
 ```sudo pip install librosa```
 
-or you work under windows:
+or if you work under windows:
 
 - Install Anaconda
 - Insert Environment Variables ```C:\Python27\Scripts;C:\ffmpeg\bin``` in Advanced System settings to support ```pip``` and ```ffmpeg```
