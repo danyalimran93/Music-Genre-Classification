@@ -2,9 +2,9 @@
 
 # Introduction
 
-A music genre is a conventional category that identifies some pieces of music as belonging to a shared tradition or set of conventions (rock, pop, metal, etc). It is to be distinguished from musical form and musical style. [1]
+A music genre is a conventional category that identifies some pieces of music as belonging to a shared tradition or set of conventions (rock, pop, metal, etc). It is to be distinguished from musical form and musical style. 
 
-Music can be divided into different genres in many different ways. The artistic nature of music means that these classifications are often subjective and controversial, and some genres may overlap.
+Music can be divided into different genres in many different ways. The artistic nature of music means that these classifications are often subjective and controversial, and some genres may overlap. [1]
 
 # Inherited Fields
 
