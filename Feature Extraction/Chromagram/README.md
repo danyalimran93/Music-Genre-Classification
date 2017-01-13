@@ -8,6 +8,17 @@ Assuming the equal-tempered scale, one considers twelve chroma values represente
 
 {C, C♯, D, D♯, E ,F, F♯, G, G♯, A, A♯, B} [1]
 
+### Code Template 
+
+```Python
+>>> y, sr = librosa.load(librosa.util.example_audio_file())
+>>> librosa.feature.chroma_stft(y=y, sr=sr)
+array([[ 0.974,  0.881, ...,  0.925,  1.   ],
+       [ 1.   ,  0.841, ...,  0.882,  0.878],
+       ...,
+       [ 0.658,  0.985, ...,  0.878,  0.764],
+       [ 0.969,  0.92 , ...,  0.974,  0.915]])
+```
 
 ### Librosa Function 
 
@@ -28,7 +39,7 @@ librosa.feature.chroma_stft(y=None, sr=22050, S=None, norm=inf, n_fft=2048, hop_
 (c). Audio Recording of C-Major Scaled Played on a Piano
 (d). Chromgram Obtained from an Audio Recording
 
-# References
+### References
 
 [1] https://en.wikipedia.org/wiki/Chroma_feature
 
